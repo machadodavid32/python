@@ -1,3 +1,0 @@
-Escrever dados em arquivos é muito facil.
-Podemos colocar quantoas linhas quisermos.
-Esta é a ultima linha

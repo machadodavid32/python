@@ -1,4 +1,0 @@
-"""Arrquivo teste"""
-
-print("Testanto")
-
